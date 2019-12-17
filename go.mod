@@ -17,4 +17,4 @@ require (
 
 go 1.13
 
-replace github.com/swaggo/swag => github.com/kayrules/swag v1.6.2
+replace github.com/swaggo/swag => github.com/kayrules/swag swag-heimdall
