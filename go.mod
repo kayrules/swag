@@ -8,13 +8,13 @@ require (
 	github.com/go-openapi/jsonreference v0.19.3
 	github.com/go-openapi/spec v0.19.4
 	github.com/satori/go.uuid v1.2.0
-	github.com/shopspring/decimal v0.0.0-20191130220710-360f2bc03045
 	github.com/stretchr/testify v1.4.0
 	github.com/swaggo/cli v1.20.0
 	github.com/swaggo/files v0.0.0-20190704085106-630677cd5c14
 	github.com/swaggo/gin-swagger v1.2.0
-	github.com/swaggo/swag/example/markdown v0.0.0-20191216071714-6d49876b1196 // indirect
 	golang.org/x/tools v0.0.0-20190614205625-5aca471b1d59
 )
 
 go 1.13
+
+replace github.com/swaggo/swag => github.com/kayrules/swag v1.6.2
