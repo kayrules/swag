@@ -6,8 +6,8 @@ import (
 	"os"
 
 	"github.com/swaggo/cli"
-	"github.com/swaggo/swag"
-	"github.com/swaggo/swag/gen"
+	"github.com/kayrules/swag"
+	"github.com/kayrules/swag/gen"
 )
 
 const (

@@ -47,6 +47,7 @@ github.com/golang/protobuf v1.3.1/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5y
 github.com/gorilla/mux v1.7.3/go.mod h1:1lud6UwP+6orDFRuTfBEV8e9/aOM/c4fVVCaMa2zaAs=
 github.com/json-iterator/go v1.1.5/go.mod h1:+SdeFBvtyEkXs7REEP0seUULqWtbJapLOCVDaaPEHmU=
 github.com/json-iterator/go v1.1.6/go.mod h1:+SdeFBvtyEkXs7REEP0seUULqWtbJapLOCVDaaPEHmU=
+github.com/kayrules/swag v1.6.3-0.20190806041813-874338108e84/go.mod h1:YyZstMc22WYm6GEDx/CYWxq+faBbjQ5EqwQcrjREDBo=
 github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORNo=
 github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
 github.com/kr/pty v1.1.5/go.mod h1:9r2w37qlBe7rQ6e1fg1S/9xpWHSnaqNdHD3WcMdbPDA=
@@ -77,10 +78,10 @@ github.com/swaggo/cli v1.20.0/go.mod h1:7jzoQluD0EWMc0rxx6kkPoRNfYNHkNJI/NokjEwJ
 github.com/swaggo/files v0.0.0-20190704085106-630677cd5c14/go.mod h1:gxQT6pBGRuIGunNf/+tSOB5OHvguWi8Tbt82WOkf35E=
 github.com/swaggo/gin-swagger v1.2.0/go.mod h1:qlH2+W7zXGZkczuL+r2nEBR2JTT+/lX05Nn6vPhc7OI=
 github.com/swaggo/http-swagger v0.0.0-20190614090009-c2865af9083e/go.mod h1:eycbshptIv+tqTMlLEaGC2noPNcetbrcYEelLafrIDI=
-github.com/swaggo/swag v1.5.1/go.mod h1:1Bl9F/ZBpVWh22nY0zmYyASPO1lI/zIwRDrpZU+tv8Y=
-github.com/swaggo/swag v1.6.2/go.mod h1:YyZstMc22WYm6GEDx/CYWxq+faBbjQ5EqwQcrjREDBo=
-github.com/swaggo/swag/example/markdown v0.0.0-20191216071714-6d49876b1196 h1:9y+FUNmZepum8lHycUP5ybW6jWzj2C1uj9zOfvqgp+E=
-github.com/swaggo/swag/example/markdown v0.0.0-20191216071714-6d49876b1196/go.mod h1:GSN4npXSeM/FXv3fU3cDjlG40L6ursDMRLigAue5DcI=
+github.com/kayrules/swag v1.5.1/go.mod h1:1Bl9F/ZBpVWh22nY0zmYyASPO1lI/zIwRDrpZU+tv8Y=
+github.com/kayrules/swag v1.6.2/go.mod h1:YyZstMc22WYm6GEDx/CYWxq+faBbjQ5EqwQcrjREDBo=
+github.com/kayrules/swag/example/markdown v0.0.0-20191216071714-6d49876b1196 h1:9y+FUNmZepum8lHycUP5ybW6jWzj2C1uj9zOfvqgp+E=
+github.com/kayrules/swag/example/markdown v0.0.0-20191216071714-6d49876b1196/go.mod h1:GSN4npXSeM/FXv3fU3cDjlG40L6ursDMRLigAue5DcI=
 github.com/ugorji/go v1.1.4/go.mod h1:uQMGLiO92mf5W77hV/PUCpI3pbzQx3CRekS0kk+RGrc=
 github.com/ugorji/go v1.1.5-pre h1:jyJKFOSEbdOc2HODrf2qcCkYOdq7zzXqA9bhW5oV4fM=
 github.com/ugorji/go v1.1.5-pre/go.mod h1:FwP/aQVg39TXzItUBMwnWp9T9gPQnXw4Poh4/oBQZ/0=
