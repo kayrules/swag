@@ -262,6 +262,7 @@ var SwaggerInfo = swaggerInfo{
 
 type s struct{}
 
+// ReadDoc - getter
 func (s *s) ReadDoc() string {
 	sInfo := SwaggerInfo
 	sInfo.Description = strings.Replace(sInfo.Description, "\n", "\\n", -1)
@@ -284,7 +285,7 @@ func (s *s) ReadDoc() string {
 	return tpl.String()
 }
 
-func init() {
-	swag.Register(swag.Name, &s{})
-}
+// func init() {
+// 	swag.Register(swag.Name, &s{})
+// }
 `
